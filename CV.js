@@ -37,3 +37,6 @@ console.log("Made and Coded by Rishabh Tripathi");
   
   });
 
+transFer=()=>{
+  window.open("https://amazing-brahmagupta-2b6f3b.netlify.app/", '_blank').focus();
+};

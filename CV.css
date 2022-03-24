@@ -393,6 +393,7 @@ header .navbar ul li a:hover{
     display: none;
 }
 
+
 .home{
     display: flex;
     justify-content: center;
@@ -682,3 +683,6 @@ aside p{
     }
 
  }
+
+
+ 
