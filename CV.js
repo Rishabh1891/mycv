@@ -17,7 +17,7 @@ $(document).ready(function(){
       }
   
     });
-console.log("Made and Coded by Rishabh Tripathi");
+    console.table({Coder:"Rishabh Tripathi", Contact:"Rishabhtripathi2001@rediffmail.com"});
     // smooth scrolling 
   
     $('a[href*="#"]').on('click',function(e){
